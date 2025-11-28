@@ -5,3 +5,6 @@
 [submodule "tcc_api_autenticacao"]
 	path = tcc_api_autenticacao
 	url = https://github.com/LeandroRodriguesCarneiro/tcc_api_autenticacao.git
+[submodule "tcc_api_chat"]
+	path = tcc_api_chat
+	url = https://github.com/LeandroRodriguesCarneiro/tcc_api_chat
