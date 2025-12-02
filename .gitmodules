@@ -1,7 +1,6 @@
 [submodule "tcc_api_ingestao_dados"]
 	path = tcc_api_ingestao_dados
 	url = https://github.com/LeandroRodriguesCarneiro/tcc_api_ingestao_dados.git
-
 [submodule "tcc_api_autenticacao"]
 	path = tcc_api_autenticacao
 	url = https://github.com/LeandroRodriguesCarneiro/tcc_api_autenticacao.git
@@ -11,3 +10,6 @@
 [submodule "tcc_frontend"]
 	path = tcc_frontend
 	url = https://github.com/LeandroRodriguesCarneiro/tcc_frontend.git
+[submodule "tcc_infra_estrutura"]
+	path = tcc_infra_estrutura
+	url = https://github.com/LeandroRodriguesCarneiro/tcc_infra_estrutura.git
