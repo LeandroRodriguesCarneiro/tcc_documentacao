@@ -8,3 +8,6 @@
 [submodule "tcc_api_chat"]
 	path = tcc_api_chat
 	url = https://github.com/LeandroRodriguesCarneiro/tcc_api_chat
+[submodule "tcc_frontend"]
+	path = tcc_frontend
+	url = https://github.com/LeandroRodriguesCarneiro/tcc_frontend.git
