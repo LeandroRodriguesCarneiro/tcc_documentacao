@@ -19,7 +19,8 @@ O projeto é a união dos respositórios de:
   - https://github.com/LeandroRodriguesCarneiro/tcc_infra_estrutura;
  
 ## Arquitetura do sistema
-A arquitetura do sistema tem o seguinte desennho:
+A arquitetura do sistema tem o seguinte desenho:
+![Texto alternativo](imgs\ArquiteturaTCC.drawio.png)
 
 1. Padrões de Projeto:
 
