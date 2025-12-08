@@ -20,7 +20,7 @@ O projeto é a união dos respositórios de:
  
 ## Arquitetura do sistema
 A arquitetura do sistema tem o seguinte desenho:
-![Texto alternativo](imgs\ArquiteturaTCC.drawio.png)
+![Texto alternativo](imgs/ArquiteturaTCC.drawio.png)
 
 1. Padrões de Projeto:
 
@@ -119,4 +119,5 @@ Contribuições são bem-vindas! Para sugestões, melhorias ou relatórios de bu
 Leandro Rodrigues Carneiro  
 
 [GitHub](https://github.com/LeandroRodriguesCarneiro) | Contato: leandrorodrigues131531@gmail.com
+
 
